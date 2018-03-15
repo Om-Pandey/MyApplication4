@@ -1,0 +1,42 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="447" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="663" y="304" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1241" y="854" />
+    <location key="SettingsEditor.0.0.1920.1080" x="400" y="129" />
+    <location key="#Project_Structure.0.0.1920.1080" x="539" y="141" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="748" y="227" />
+    <location key="deploy.picker.dialog.0.0.1920.1080" x="637" y="245" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.1920.1080" x="537" y="245" />
+    <location key="#Notifications.0.0.1920.1080" x="706" y="211" />
+    <location key="AndroidCreateResourceFileDialog.0.0.1920.1080" x="537" y="245" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="687" y="233" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="604" y="272" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="761" y="204" />
+    <location key="AndroidThemeDialog.0.0.1920.1080" x="536" y="201" />
+    <location key="idPropertyDimension.0.0.1920.1080" x="694" y="393" />
+    <location key="chooseDestDirectoryDialog.0.0.1920.1080" x="683" y="263" />
+    <location key="IdeErrosDialog.0.0.1920.1080" x="439" y="301" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="687" y="245" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1080" x="692" y="152" />
+    <location key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog.0.0.1920.1080" x="687" y="233" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" x="686" y="276" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.1920.1080" x="794" y="241" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1080" x="406" y="397" />
+    <location key="#app.0.0.1920.1080" x="617" y="33" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="756" y="142" />
+    <location key="GitCloneDialog.0.0.1920.1080" x="738" y="393" />
+    <location key="Github.ShareDialog.0.0.1920.1080" x="719" y="363" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="641" y="367" />
+    <location key="Github.UntrackedFilesDialog.0.0.1920.1080" x="155" y="111" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="382" height="154" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1329" height="891" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="0" height="0" />
+    <size key="javadoc.popup.0.0.1920.1080" width="668" height="221" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="1074" height="565" />
+    <size key="#Project_Structure.0.0.1920.1080" width="846" height="737" />
+  </component>
+</application>

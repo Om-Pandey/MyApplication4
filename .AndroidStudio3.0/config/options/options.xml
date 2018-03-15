@@ -1,0 +1,56 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.1.51-release-Studio3.0-1" />
+    <property name="android-component-compatibility-check" value="1521118719340" />
+    <property name="lastTip" value="45" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/pro/and-nd-firebase-1.00-starting-point&#10;D:/work/Git/cmd/git.exe&#10;D:/work/Git/git-cmd.exe&#10;D:/work/Git/git-bash.exe&#10;C:/Users/KIIT/Desktop/pro&#10;C:/Users/KIIT/Desktop/pro/Movie&#10;C:/Users/KIIT/Desktop/pro/exp1&#10;C:/Users/KIIT/Desktop/pro/ud843-QuakeReport-lesson-two&#10;C:/Users/KIIT/Desktop/pro/Clima-Android-master&#10;C:/Users/KIIT/Desktop/pro/ud845-Pets-starting-point&#10;C:/Users/KIIT/Desktop/pro/login&#10;C:/Users/KIIT/Desktop/pro/APP1&#10;C:/Users/KIIT/Desktop/pro/edxAndroidPro1-eventbus&#10;C:/Users/KIIT/Desktop/pro/edxAndroidPro1-mvp&#10;C:/Users/KIIT/Desktop/pro/edxAndroidPro1-master&#10;C:/Users/KIIT/Desktop/Simple-Calendar-master&#10;C:/Users/KIIT/Desktop/ChatClient-Assignment2&#10;C:/Users/KIIT/Desktop/TimeGreetFriend&#10;C:/Users/KIIT/.android/breakpad&#10;C:/Users/KIIT/Desktop/ud839_Miwok-c80d8bdfe407be01a3097ea922a8f61caf53b82e&#10;C:/Users/KIIT/Desktop/ud839_Miwok-534b9a382dc0aaab47a87a808e101b3bdc8073c3&#10;C:/Users/KIIT/Desktop/ud843_DidYouFeelIt-starting-point&#10;C:/Users/KIIT/Desktop/ud845-Pets-starting-point&#10;C:/Users/KIIT/Desktop/ud843_Soonami-starting-point&#10;C:/Users/KIIT/Desktop/ud839_CustomAdapter_Example-master&#10;C:/Users/KIIT/Desktop/cheesesquare-master&#10;C:/Users/KIIT/Desktop/ud839_ViewPager_Example-quiz&#10;C:/Users/KIIT/Desktop/Media&#10;C:/Users/KIIT/Desktop/ud839_Miwok-lesson-one&#10;C:/Users/KIIT/Desktop/ud839_Miwok-Starter-code" />
+    <property name="last.used.gradle.home" value="$APPLICATION_HOME_DIR$/gradle/gradle-4.1" />
+    <property name="newly.installed.api.level" value="25" />
+    <property name="file.gist.reindex.count" value="1945" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PROPERTIES,PALETTE,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PROPERTIES,PALETTE,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="palette.category.width" value="100" />
+    <property name="NlScreenMode" value="SCREEN_ONLY" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="properties.mode" value="INSPECTOR" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="inspector.open.textAppearance" value="true" />
+    <property name="last.imported.location" value="$USER_HOME$/Desktop/ud845-Pets-starting-point" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.UNSCALED.WIDTH" value="225" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="LOG_FILTER_HISTORY" value="Exception" />
+    <property name="studio.activity.count" value="0" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="AndroidEnableDdms" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="gradle.runner.text.console_str" value="true" />
+    <property name="gradle.runner.text.console" value="true" />
+  </component>
+</application>

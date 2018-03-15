@@ -1,0 +1,556 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="C:\Users\KIIT\Desktop\pro\and-nd-firebase-1.00-starting-point" />
+        <option value="C:\Users\KIIT\Desktop\pro\Birthday" />
+        <option value="C:\Users\KIIT\Desktop\pro\loaders" />
+        <option value="C:\Users\KIIT\Desktop\pro\Custom" />
+        <option value="C:\Users\KIIT\Desktop\pro\Movie" />
+        <option value="C:\Users\KIIT\Desktop\pro\exp1" />
+        <option value="C:\Users\KIIT\Desktop\pro\ud843-QuakeReport-lesson-two" />
+        <option value="C:\Users\KIIT\Desktop\pro\Clima-Android-master" />
+        <option value="C:\Users\KIIT\Desktop\pro\ud845-Pets-starting-point" />
+        <option value="C:\Users\KIIT\Desktop\pro\Movieee" />
+        <option value="C:\Users\KIIT\Desktop\pro\login" />
+        <option value="C:\Users\KIIT\Desktop\pro\APP1" />
+        <option value="C:\Users\KIIT\Desktop\pro\edxAndroidPro1-eventbus" />
+        <option value="C:\Users\KIIT\Desktop\pro\edxAndroidPro1-mvp" />
+        <option value="C:\Users\KIIT\Desktop\pro\LOgin2" />
+        <option value="C:\Users\KIIT\Desktop\Calculator" />
+        <option value="C:\Users\KIIT\Desktop\pro\edxAndroidPro1-master" />
+        <option value="C:\Users\KIIT\Desktop\ChatClient-Assignment2" />
+        <option value="C:\Users\KIIT\Desktop\Simple-Calendar-master" />
+        <option value="C:\Users\KIIT\Desktop\TimeGreetFriend" />
+        <option value="C:\Users\KIIT\Desktop\exp4" />
+        <option value="C:\Users\KIIT\Desktop\exp3" />
+        <option value="C:\Users\KIIT\Desktop\exp2" />
+        <option value="C:\Users\KIIT\Desktop\exp1" />
+        <option value="C:\Users\KIIT\Desktop\login" />
+        <option value="C:\Users\KIIT\Desktop\ud839_Miwok-c80d8bdfe407be01a3097ea922a8f61caf53b82e" />
+        <option value="C:\Users\KIIT\Desktop\ud839_Miwok-534b9a382dc0aaab47a87a808e101b3bdc8073c3" />
+        <option value="C:\Users\KIIT\Desktop\ud845-Pets-starting-point" />
+        <option value="C:\Users\KIIT\Desktop\ud843_DidYouFeelIt-starting-point" />
+        <option value="C:\Users\KIIT\Desktop\ud843_Soonami-starting-point" />
+        <option value="C:\Users\KIIT\Desktop\ud839_CustomAdapter_Example-master" />
+        <option value="C:\Users\KIIT\Desktop\Earthquake" />
+        <option value="C:\Users\KIIT\Desktop\cheesesquare-master" />
+        <option value="C:\Users\KIIT\Desktop\ud839_ViewPager_Example-quiz" />
+        <option value="C:\Users\KIIT\Desktop\Media" />
+        <option value="C:\Users\KIIT\AndroidStudioProjects\CourtCounter" />
+        <option value="C:\Users\KIIT\AndroidStudioProjects\HappyBirthday" />
+        <option value="C:\Users\KIIT\AndroidStudioProjects\Test" />
+        <option value="C:\Users\KIIT\AndroidStudioProjects\PracticeSet2" />
+        <option value="C:\Users\KIIT\AndroidStudioProjects\MyApplication3" />
+        <option value="C:\Users\KIIT\AndroidStudioProjects\JustJava" />
+        <option value="C:\Users\KIIT\AndroidStudioProjects\MyApplication2" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="C:\Users\KIIT\Desktop\pro\Birthday" />
+      </list>
+    </option>
+    <option name="lastPath" value="C:\Users\KIIT\Desktop\pro\and-nd-firebase-1.00-starting-point" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:\Users\KIIT\AndroidStudioProjects\CourtCounter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1513877231881" />
+              <option name="buildTimestamp" value="1510251703365" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\AndroidStudioProjects\HappyBirthday">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1513706688833" />
+              <option name="buildTimestamp" value="1510251682092" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\AndroidStudioProjects\JustJava">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1513582956474" />
+              <option name="buildTimestamp" value="1510251669563" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\AndroidStudioProjects\Miwok">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1513760850224" />
+              <option name="buildTimestamp" value="1510251682092" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\AndroidStudioProjects\MyApplication2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1513543635800" />
+              <option name="buildTimestamp" value="1510251693413" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\AndroidStudioProjects\MyApplication3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1513594744194" />
+              <option name="buildTimestamp" value="1510251669563" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\AndroidStudioProjects\PracticeSet2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1513616749316" />
+              <option name="buildTimestamp" value="1510251669563" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\AndroidStudioProjects\Test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1513703491809" />
+              <option name="buildTimestamp" value="1510251682092" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\Calculator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1518745650359" />
+              <option name="buildTimestamp" value="1510251707601" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\ChatClient-Assignment2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1518585254245" />
+              <option name="buildTimestamp" value="1510251712010" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\Earthquake">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1514087911302" />
+              <option name="buildTimestamp" value="1510251682512" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\Media">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1513942854619" />
+              <option name="buildTimestamp" value="1510251704368" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\Simple-Calendar-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1518564667079" />
+              <option name="buildTimestamp" value="1510251712010" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\TimeGreetFriend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1518234631721" />
+              <option name="buildTimestamp" value="1510251683640" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\cheesesquare-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1514016554545" />
+              <option name="buildTimestamp" value="1510251663846" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\exp1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1516083079659" />
+              <option name="buildTimestamp" value="1510251716637" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\exp2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1516371576279" />
+              <option name="buildTimestamp" value="1510251716637" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\exp3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1516424190491" />
+              <option name="buildTimestamp" value="1510251716637" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\exp4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1518023441637" />
+              <option name="buildTimestamp" value="1510251691751" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\login">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1516082948043" />
+              <option name="buildTimestamp" value="1510251716637" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\APP1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1519450830585" />
+              <option name="buildTimestamp" value="1510251716776" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\Birthday">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1521118722801" />
+              <option name="buildTimestamp" value="1510251693225" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\Clima-Android-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1520006937065" />
+              <option name="buildTimestamp" value="1510251700544" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\Custom">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1520400618742" />
+              <option name="buildTimestamp" value="1510251666206" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\LOgin2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1518796056872" />
+              <option name="buildTimestamp" value="1510251707601" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\Movie">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1520326118280" />
+              <option name="buildTimestamp" value="1510251685974" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\Movieee">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1519678432847" />
+              <option name="buildTimestamp" value="1510251695485" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\and-nd-firebase-1.00-starting-point">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1521130036819" />
+              <option name="buildTimestamp" value="1510251693225" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\edxAndroidPro1-eventbus">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1518861231150" />
+              <option name="buildTimestamp" value="1510251707601" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\edxAndroidPro1-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1518745185797" />
+              <option name="buildTimestamp" value="1510251707601" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\edxAndroidPro1-mvp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1518831183622" />
+              <option name="buildTimestamp" value="1510251707601" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\exp1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1520304726126" />
+              <option name="buildTimestamp" value="1510251685974" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\loaders">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1520752914695" />
+              <option name="buildTimestamp" value="1510251666206" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\login">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1519452706304" />
+              <option name="buildTimestamp" value="1510251716776" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\ud843-QuakeReport-lesson-two">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1520132850228" />
+              <option name="buildTimestamp" value="1510251700544" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\pro\ud845-Pets-starting-point">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1520006752220" />
+              <option name="buildTimestamp" value="1510251700544" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\ud839_CustomAdapter_Example-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1514088210103" />
+              <option name="buildTimestamp" value="1510251682512" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\ud839_Miwok-534b9a382dc0aaab47a87a808e101b3bdc8073c3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1515877390434" />
+              <option name="buildTimestamp" value="1510251697414" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\ud839_Miwok-Starter-code">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1513867578278" />
+              <option name="buildTimestamp" value="1510251669994" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\ud839_Miwok-c80d8bdfe407be01a3097ea922a8f61caf53b82e">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1515912330790" />
+              <option name="buildTimestamp" value="1510251697414" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\ud839_Miwok-lesson-one">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1513867816591" />
+              <option name="buildTimestamp" value="1510251669994" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\ud839_ViewPager_Example-quiz">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1514007792468" />
+              <option name="buildTimestamp" value="1510251663846" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\ud843_DidYouFeelIt-starting-point">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1515761538073" />
+              <option name="buildTimestamp" value="1510251667160" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\ud843_Soonami-starting-point">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1515040365227" />
+              <option name="buildTimestamp" value="1510251694189" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\KIIT\Desktop\ud845-Pets-starting-point">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1515853007610" />
+              <option name="buildTimestamp" value="1510251696631" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop/pro" />
+  </component>
+</application>

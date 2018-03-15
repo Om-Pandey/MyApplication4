@@ -1,0 +1,16 @@
+[color]
+	ui = auto
+[core]
+	editor = 'C:\\Program Files\\Sublime Text 3/sublime_text.exe' -n -w
+[push]
+	default = upstream
+[merge]
+	conflictstyle = diff3
+[user]
+	email = wizardoz355@gmail.com
+	name = Om Pandey
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
